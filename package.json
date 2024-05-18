@@ -1,11 +1,11 @@
 {
-	"name": "Brian's Portfolio",
+	"homepage": "https://brian-escobar.github.io/Portfolio/",
+	"name": "Brian Escobar",
 	"version": "1.1.0",
 	"description": "Personal portfolio ",
 	"author": {
 		"name": "Brian Escobar",
-		"email": "BrianEscobar523@gmail.com",
-		"url": "none"
+		"email": "BrianEscobar523@gmail.com"
 	},
 	"license": "MIT",
 	"private": true,
