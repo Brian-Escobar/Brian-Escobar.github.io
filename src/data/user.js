@@ -16,13 +16,13 @@ const INFO = {
 	homepage: {
 		title: "Hi Welcome to My Portfolio!",
 		description:
-			"Hi, My name is Brian Escobar and I am a soon to be graduate of Cal State Fullerton with a Bachelors in Computer Science. I am proficient at programming in C++, Python, and Swift. ",
+			"Hi, My name is Brian Escobar and I am a soon to be graduate of Cal State Fullerton with a Bachelors in Computer Science. I am proficient at programming in C++, Python, and Swift.",
 	},
 
 	about: {
 		title: "Nice to meet you, I'm Brian Escobar.",
 		description:
-			"Here you can find all of my contact information as well as a link to my GitHub where I showcase my finished projects.",
+			"I am an aspiring software engineer with experience working with SwiftUI, Python, C++, HTML, Javascript, CSS, and React. I am always excited to learn new technologies to further develop my skillset. During My free time I love to play video games like 'The Legend of Zelda' and watch tv shows. ",
 	},
 
 	articles: {
