@@ -1,6 +1,6 @@
 const INFO = {
 	main: {
-		title: "Brian's Super Awesome Portfolio",
+		title: "Brian's Portfolio",
 		name: "Brian Escobar",
 		email: "brianescobar523@gmail.com",
 		logo: "../logo.png",
@@ -8,7 +8,7 @@ const INFO = {
 
 	socials: {
 		github: "https://github.com/Brian-Escobar",
-		linkedin: "https://linkedin.com/brian-escobar-b495a8289",
+		linkedin: "https://www.linkedin.com/in/brian-escobar-b495a8289/",
 		instagram: "https://instagram.com/brianquartz/",
 		
 	},
@@ -35,10 +35,10 @@ const INFO = {
 		{
 			title: "Project 1 - At a Glance",
 			description:
-				"An ios Application made in Xcode using Swift.",
+				"An iOS application made in Xcode using Swift.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/swift/swift.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/Brian-Escobar/CPSC-223W-Group-Project",
 		},
 
 		{
@@ -47,7 +47,7 @@ const INFO = {
 				"A program that replicates the process of a compiler for an imaginary programming language called 'Rat23F'.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/Brian-Escobar/Assignment2-AdamBrianHelen",
 		},
 
 		

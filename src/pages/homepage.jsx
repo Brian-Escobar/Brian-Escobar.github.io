@@ -12,7 +12,7 @@ import Logo from "../components/common/logo";
 import Footer from "../components/common/footer";
 import NavBar from "../components/common/navBar";
 import AllProjects from "../components/projects/allProjects";
-
+import Works from "../components/homepage/works";
 import INFO from "../data/user";
 import SEO from "../data/seo";
 
@@ -184,10 +184,11 @@ const Homepage = () => {
 								))}
 							</div>
 
+							*/} 
 							<div className="homepage-works">
 								<Works />
 							</div>
-						</div> */}
+						
 
 						<div className="page-footer">
 							<Footer />
