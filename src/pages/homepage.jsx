@@ -110,16 +110,6 @@ const Homepage = () => {
 						</div>
 
 						<div className="homepage-socials">
-							{/* <a
-								href={INFO.socials.twitter}
-								target="_blank"
-								rel="noreferrer"
-							>
-								<FontAwesomeIcon
-									icon={faTwitter}
-									className="homepage-social-icon"
-								/>
-							</a> */}
 							<a
 								href={INFO.socials.github}
 								target="_blank"
@@ -130,16 +120,6 @@ const Homepage = () => {
 									className="homepage-social-icon"
 								/>
 							</a>
-							{/* <a
-								href={INFO.socials.stackoverflow}
-								target="_blank"
-								rel="noreferrer"
-							>
-								<FontAwesomeIcon
-									icon={faStackOverflow}
-									className="homepage-social-icon"
-								/>
-							</a> */}
 							<a
 								href={INFO.socials.instagram}
 								target="_blank"
@@ -166,25 +146,7 @@ const Homepage = () => {
 							<AllProjects />
 						</div>
 
-						{/* <div className="homepage-after-title">
-							<div className="homepage-articles">
-								{myArticles.map((article, index) => (
-									<div
-										className="homepage-article"
-										key={(index + 1).toString()}
-									>
-										<Article
-											key={(index + 1).toString()}
-											date={article().date}
-											title={article().title}
-											description={article().description}
-											link={"/article/" + (index + 1)}
-										/>
-									</div>
-								))}
-							</div>
-
-							*/} 
+						
 							<div className="homepage-works">
 								<Works />
 							</div>
